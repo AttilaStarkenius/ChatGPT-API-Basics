@@ -1,0 +1,3 @@
+23.10.2023. I add key.txt file to gitignore because I shouldn't push my API key to Github
+5.11.2023. I create new key via website https://platform.openai.com/account/api-keys
+5.11.2023. I right click key.txt file in source control and choose "add to gitignore"
