@@ -4,3 +4,4 @@
 6.11.2023 moving key.txt outside github commit
 9.11.2023. I add Cloudera to ChatGPT-API-Basics solution
 9.11.2023. I create a Cloudera account at the website https://sso.cloudera.com/register.html
+9.11.2023. I try to install: https://www.cloudera.com/downloads/cdp-private-cloud-trial/cdp-private-cloud-base-trial.html
