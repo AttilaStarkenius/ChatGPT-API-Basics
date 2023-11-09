@@ -2,3 +2,5 @@
 5.11.2023. I create new key via website https://platform.openai.com/account/api-keys
 5.11.2023. I right click key.txt file in source control and choose "add to gitignore"
 6.11.2023 moving key.txt outside github commit
+9.11.2023. I add Cloudera to ChatGPT-API-Basics solution
+9.11.2023. I create a Cloudera account at the website https://sso.cloudera.com/register.html
