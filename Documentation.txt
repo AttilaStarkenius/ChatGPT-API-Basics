@@ -5,3 +5,9 @@
 9.11.2023. I add Cloudera to ChatGPT-API-Basics solution
 9.11.2023. I create a Cloudera account at the website https://sso.cloudera.com/register.html
 9.11.2023. I try to install: https://www.cloudera.com/downloads/cdp-private-cloud-trial/cdp-private-cloud-base-trial.html
+20.11.2023. $ wget https://archive.cloudera.com/cm7/7.4.4/cloudera-manager-installer.bin
+
+$ chmod u+x cloudera-manager-installer.bin
+
+$ sudo ./cloudera-manager-installer.bin
+doesn't work on my windows command line prompt - these are linux commands
