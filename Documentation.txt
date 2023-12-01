@@ -11,3 +11,5 @@ $ chmod u+x cloudera-manager-installer.bin
 
 $ sudo ./cloudera-manager-installer.bin
 doesn't work on my windows command line prompt - these are linux commands
+
+1.12.2023. In terminal I install pip install openai upgrade
